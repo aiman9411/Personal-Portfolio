@@ -112,3 +112,37 @@ nav {
     transition: background 0.3s ease-out;
     background-color: #be3144;
 }
+
+#contacts {
+    background-color: #303841;
+    color: #ffffff;
+    height: 90vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 5px solid #be3144;
+}
+
+#contact-header {
+    font-size: 5rem;
+}
+
+#contact-desc {
+    font-size: 2rem;
+}
+
+.fab {
+    color: #ffffff;
+    font-size: 3rem;
+    padding: 1rem 2rem;
+    margin-top: 1.5rem;
+}
+
+footer {
+    background-color: #303841;
+    color: #ffffff;
+    padding: 1rem;
+
+}
